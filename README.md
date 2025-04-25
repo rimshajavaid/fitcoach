@@ -7,7 +7,7 @@ A modern and visually engaging landing page designed for a personal fitness coac
 
 ## 🔗 Live Demo
 
-> [Live Preview Link (Optional)](https://rimshajavaid.github.io/fitcoach/)
+> [Live Preview Link](https://rimshajavaid.github.io/fitcoach/)
 
 ---
 
